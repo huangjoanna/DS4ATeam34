@@ -1,0 +1,4 @@
+The full dataset can be downloaded here: https://college-insight.org/wp-content/uploads/2020/10/CIS-Data-and-Codebook-20-10-06.zip
+
+It is too big to add on git. 
+You can download the dataset and put the jupyter notebook in the same directory as the .csv file and run the notebook.
