@@ -1,4 +1,4 @@
-dUNITID: Unit ID for institution
+UNITID: Unit ID for institution
 OPEID: 8-digit OPE ID for institution
 OPEID6: 6-digit OPE ID for institution
 INSTNM: Institution name
